@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "username": "vi@jnj.com",
+    "password": "Vivek@7013"
+  },
+  "customer": {
+    "username": "customer@example.com",
+    "password": "Password123"
+  }
+}

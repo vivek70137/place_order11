@@ -1,0 +1,90 @@
+- generic [ref=e7]:
+  - generic [ref=e9]:
+    - button "Skip to Header" [ref=e10] [cursor=pointer]
+    - button "Skip to Main Content" [ref=e11] [cursor=pointer]
+    - button "Skip to Footer" [ref=e12] [cursor=pointer]
+  - banner [ref=e13]:
+    - link "J&J MedTech" [ref=e17] [cursor=pointer]:
+      - /url: https://www.jnjmedtech.com/en-GB
+      - text: J&J MedTech
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - generic "J&J rebranded logo" [ref=e24]:
+        - link "J&J rebranded logo" [ref=e25] [cursor=pointer]:
+          - /url: /uk-store/en/GBP/
+          - img "J&J rebranded logo" [ref=e26]
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - heading "Login" [level=3] [ref=e31]
+            - button "J&J Sign In" [ref=e33] [cursor=pointer]
+          - generic [ref=e34]:
+            - generic [ref=e36]:
+              - generic [ref=e37]: Email
+              - textbox "Email" [ref=e39]:
+                - /placeholder: ""
+            - generic [ref=e41]:
+              - generic [ref=e42]: Password
+              - generic [ref=e43]:
+                - textbox "Password" [ref=e44]:
+                  - /placeholder: ""
+                - img "eye-close" [ref=e46] [cursor=pointer]
+            - generic [ref=e47]:
+              - generic [ref=e50]:
+                - checkbox "Remember me" [ref=e51]
+                - generic [ref=e52]: Remember me
+              - link "Forgot Password?" [ref=e53] [cursor=pointer]:
+                - /url: /uk-store/en/GBP/login/forgot-password
+            - generic [ref=e54]:
+              - link "Create an Account" [ref=e55] [cursor=pointer]:
+                - /url: /uk-store/en/GBP/registration
+              - button "Sign In" [ref=e57] [cursor=pointer]
+        - generic [ref=e58]:
+          - generic [ref=e59]: Need help?
+          - generic [ref=e60]:
+            - link "Explore the Help Center" [ref=e61] [cursor=pointer]:
+              - /url: /uk-store/en/GBP/help
+              - text: Explore the Help Center
+            - link "Contact Us" [ref=e63] [cursor=pointer]:
+              - /url: /uk-store/en/GBP/contactus
+              - text: Contact Us
+  - contentinfo [ref=e65]:
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - img "Johnson & Johnson company logo" [ref=e73]
+        - contentinfo "Footer legal notices and links" [ref=e76]:
+          - paragraph [ref=e77]: © Janssen-Cilag Limited
+          - paragraph [ref=e78]: © Johnson & Johnson Medical Limited
+          - paragraph [ref=e79]: www.uk-mt.jjcustomerconnect.com is published by Janssen-Cilag Limited and Johnson & Johnson Medical Limited.
+          - paragraph [ref=e80]: Johnson & Johnson Gateway Limited | 50 – 100 Homers Farm Way | High Wycombe, Buckinghamshire.HP12 4EG and Johnson & Johnson Medical Limited, Baird House, 4 Lower Gilmore Bank, Edinburgh, EH3 9QP are solely responsible for its contents, unless otherwise noted.. This site is only intended for customers in the UK.
+          - paragraph [ref=e81]:
+            - text: By using this site, you agree to our
+            - link "Legal Notice" [ref=e82] [cursor=pointer]:
+              - /url: "#"
+            - text: ","
+            - link "Cookie Policy" [ref=e83] [cursor=pointer]:
+              - /url: "#"
+            - text: and
+            - link "Privacy Policy" [ref=e84] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=e86]:
+        - generic [ref=e87]: © 2025 Johnson & Johnson Services, Inc.
+        - list [ref=e89]:
+          - listitem [ref=e90]:
+            - link "Privacy Policy" [ref=e91] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e92]:
+            - link "Legal Notice" [ref=e93] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e94]:
+            - link "Terms & Conditions" [ref=e95] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e96]:
+            - link "Cookie Policy" [ref=e97] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e98]:
+            - link "Modern Slavery Act" [ref=e99] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e100]:
+            - link "Customize Cookie Settings" [ref=e101] [cursor=pointer]:
+              - /url: "#"

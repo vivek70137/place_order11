@@ -1,0 +1,99 @@
+{
+  "cookies": [
+    {
+      "name": "ROUTE",
+      "value": ".jsapps-b56bbb55-c4l9t",
+      "domain": "uk-s5.jjcustomerconnect.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ROUTE",
+      "value": ".api-6f55fb69c5-cld24",
+      "domain": "api-mt-s5.jjcustomerconnect.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1969329680.1786344002",
+      "domain": ".jjcustomerconnect.com",
+      "path": "/",
+      "expires": 1820904001.833678,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hjSessionUser_3680759",
+      "value": "eyJpZCI6IjlkZjllMzQ1LTE3ODItNTkzNC1iMTI5LTQ1YzM3MjA2ZjdiYiIsImNyZWF0ZWQiOjE3ODYzNDQwMDIzNzUsImV4aXN0aW5nIjp0cnVlfQ==",
+      "domain": ".jjcustomerconnect.com",
+      "path": "/",
+      "expires": 1817880002,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_3680759",
+      "value": "eyJpZCI6ImQ4Nzg2ZDE2LTk4ZTgtNDlkNy1iY2M0LTc1ZGQ1ZGQ0MzdmNCIsImMiOjE3ODYzNDQwMDIzNzcsInMiOjEsInIiOjEsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MX0=",
+      "domain": ".jjcustomerconnect.com",
+      "path": "/",
+      "expires": 1786345802,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2026-08-10T06:40:04.977Z",
+      "domain": "uk-s5.jjcustomerconnect.com",
+      "path": "/",
+      "expires": 1801896004,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Mon+Aug+10+2026+12%3A10%3A04+GMT%2B0530+(India+Standard+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5086a666-aceb-4fb5-b5e4-0c9e0fd13565&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A1&intType=1",
+      "domain": "uk-s5.jjcustomerconnect.com",
+      "path": "/",
+      "expires": 1801896004,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_C016MW0P4R",
+      "value": "GS2.1.s1786344001$o1$g0$t1786344007$j58$l0$h0",
+      "domain": ".jjcustomerconnect.com",
+      "path": "/",
+      "expires": 1820904007.144166,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://uk-s5.jjcustomerconnect.com",
+      "localStorage": [
+        {
+          "name": "days",
+          "value": "20"
+        },
+        {
+          "name": "email",
+          "value": "sarita15@gmail.com"
+        }
+      ]
+    }
+  ]
+}

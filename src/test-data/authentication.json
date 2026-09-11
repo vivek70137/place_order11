@@ -1,0 +1,175 @@
+{
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "value": "175E2CABDF2B7B66ADCD34C598FFD02A.api-dfdb567c6-hhjln",
+      "domain": "api-mt-s5.jjcustomerconnect.com",
+      "path": "/authorizationserver",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ROUTE",
+      "value": ".jsapps-b56bbb55-c4l9t",
+      "domain": "uk-s5.jjcustomerconnect.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.183381703.1786369859",
+      "domain": ".jjcustomerconnect.com",
+      "path": "/",
+      "expires": 1820929897.867896,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hjSession_3680759",
+      "value": "eyJpZCI6IjVjN2NkNzM0LWI4YWUtNDQ0YS04ZWIzLTFkOGRjMWNhYmQ5NSIsImMiOjE3ODYzNjk4Njc5NTksInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+      "domain": ".jjcustomerconnect.com",
+      "path": "/",
+      "expires": 1786371667,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2026-08-10T13:51:15.241Z",
+      "domain": "uk-s5.jjcustomerconnect.com",
+      "path": "/",
+      "expires": 1801921875,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ROUTE",
+      "value": ".api-dfdb567c6-hhjln",
+      "domain": "api-mt-s5.jjcustomerconnect.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_3680759",
+      "value": "eyJpZCI6IjViYTk5YjJhLTBhZmItNWNiNC1iMzY1LWEzOTUwMTQ2MDE0YSIsImNyZWF0ZWQiOjE3ODYzNjk4Njc5NTcsImV4aXN0aW5nIjp0cnVlfQ==",
+      "domain": ".jjcustomerconnect.com",
+      "path": "/",
+      "expires": 1817905898,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Mon+Aug+10+2026+19%3A21%3A40+GMT%2B0530+(India+Standard+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8a6cae15-2225-42ae-a91e-e2ebad44f61a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A1&intType=1&geolocation=IN%3BTG&AwaitingReconsent=false",
+      "domain": "uk-s5.jjcustomerconnect.com",
+      "path": "/",
+      "expires": 1801921900,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_C016MW0P4R",
+      "value": "GS2.1.s1786369859$o1$g1$t1786369901$j59$l0$h0",
+      "domain": ".jjcustomerconnect.com",
+      "path": "/",
+      "expires": 1820929901.298441,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "BIGipServerpool_jnjprod",
+      "value": "142008ade1992821accbb74fa2b422ca",
+      "domain": "jnjprod.service-now.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://uk-s5.jjcustomerconnect.com",
+      "localStorage": [
+        {
+          "name": "hasExpiryDateAccess",
+          "value": "true"
+        },
+        {
+          "name": "spartacus⚿uk-store⚿cart",
+          "value": "{\"active\":\"03183012\"}"
+        },
+        {
+          "name": "userInfo",
+          "value": "{\"type\":\"userWsDTO\",\"name\":\"Sarita Devi\",\"uid\":\"sarita15@gmail.com\",\"active\":true,\"approvers\":[],\"classOfTrade\":\"1710\",\"country\":\"GB\",\"currency\":{\"active\":false,\"isocode\":\"GBP\",\"name\":\"GBP\",\"symbol\":\"$\"},\"currentB2BUnitId\":\"10000035\",\"currentB2bUnitName\":\"41medical AG.. Name 2\",\"customerType\":\"EXTERNAL\",\"defaultB2BUnitId\":\"\",\"displayUid\":\"sarita15@gmail.com\",\"email\":\"sarita15@gmail.com\",\"firstName\":\"Sarita\",\"language\":{\"active\":true,\"isocode\":\"en\",\"name\":\"English\",\"nativeName\":\"English\"},\"lastName\":\"Devi\",\"orgUnit\":{\"active\":false,\"name\":\"41medical AG.. Name 2\",\"uid\":\"10000035\"},\"roles\":[\"jnjPlaceOrderBuyerGroup\",\"gbUserGroup\",\"jnjGBAdminGroup\"],\"sector\":\"CONSUMER\",\"selected\":false,\"success\":false}"
+        },
+        {
+          "name": "spartacus⚿⚿auth",
+          "value": "{\"token\":{\"access_token\":\"eyJ4NXQjUzI1NiI6InFfcWVsUkN0bkM0bHJiVzd3N2pyOWNkdGgzLXhTV0tUa3BlNDRhekNXRFUiLCJraWQiOiI2IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiJzYXJpdGExNUBnbWFpbC5jb20iLCJhdWQiOiJ1a19tb2JpbGVfYW5kcm9pZF9wdWJsaWMiLCJyZWFkX3VzZXJfcm9sZXMiOnRydWUsIm5iZiI6MTc4NjM2OTg4OSwic2NvcGUiOlsiYmFzaWMiXSwiaXNzIjoiaHR0cHM6Ly9hcGktbXQtczUuampjdXN0b21lcmNvbm5lY3QuY29tL2F1dGhvcml6YXRpb25zZXJ2ZXIiLCJleHAiOjE3ODY0MTMwODgsImlhdCI6MTc4NjM2OTg4OSwianRpIjoiM2RmOGIzMDktNGFhZC00YTcwLThkMzAtNTU3NTkwNmEwNDA5In0.Z8bi4QQooMn-JdqDhbr2QGLNmC-KrsfLLj0La8Sn7z3hWthN0iyvngKh0N6fguOotnqzE6u8INHeH4AYO5IRWn6njWpmBOvUDdnWD_Pvc6gzfQgfxtfdDEX4bxoY-j3Cj6bK-8q8FED0HEZ2kngKT-vQGDLgSyRUHNK1ObfizsdPgozLtYmsbciYqJXUMJ2XdTqvidO6IffPYlv_SYYgd5B6115UiVe63pGKwAcSy649Eg6aPnMz45sfjctj6LiF6oGS2WJ73ljI0vWPGo_PccJ8eslvGV2R-qf4cB-Lys-ftgTlGgrbXIbAl0gyNMf92n1kHldzsfUmEh-vXoL0xhzguPHvigXk375L0EJM9VftVVrdRWWSPx03ELd-fBtRo_vqc_AKd-iWbg6nI9DkFyhq4Zp0LgaHotDwEK0CkWMS6o7mM3DW7KaARlMt7uS94jhOumPYLxnDfbNZ5FHCmJukPV4u9jRK_eHYmnt1wBi6HE-cQ6ujrFskZP0NZ2T0GRvGVBL9bpRbM8z-391xjdZPa8XzB43sJbCVpzZisutJSby74QK1rsIfphSOxBihXhWBeEhPEaPE-oz-raKKzHmRRlOGXAZqmGgfXr34nBd_-4PxPLfH0O3iHboc6ZG3U5Qiwdk_QiBeCz1nckPvuh03N_JTBIqHCYVxxtrIk3s\",\"token_type\":\"Bearer\",\"access_token_stored_at\":\"1786369895457\",\"expires_at\":\"1786413093457\",\"granted_scopes\":[\"basic\"]},\"userId\":\"current\",\"redirectUrl\":\"\"}"
+        },
+        {
+          "name": "orderlinesvalidationcount",
+          "value": "100"
+        },
+        {
+          "name": "email",
+          "value": "sarita15@gmail.com"
+        },
+        {
+          "name": "catalogLoad",
+          "value": "false"
+        },
+        {
+          "name": "lastUserActivity",
+          "value": "1786369892558"
+        },
+        {
+          "name": "spartacus⚿⚿siteTheme",
+          "value": "\"\""
+        },
+        {
+          "name": "days",
+          "value": "20"
+        },
+        {
+          "name": "spartacus⚿⚿jj-selected-account",
+          "value": "{\"active\":false,\"name\":\"41medical AG.. Name 2\",\"uid\":\"10000035\"}"
+        },
+        {
+          "name": "isViewOnlyNoPrice",
+          "value": "false"
+        },
+        {
+          "name": "currentLang",
+          "value": "en"
+        },
+        {
+          "name": "spartacus⚿⚿language",
+          "value": "\"en\""
+        },
+        {
+          "name": "spartacus⚿⚿currency",
+          "value": "\"GBP\""
+        },
+        {
+          "name": "spartacus⚿⚿anonymous-consents",
+          "value": "{\"templates\":{\"loading\":false,\"error\":false,\"success\":false},\"consents\":[],\"ui\":{\"bannerDismissed\":false,\"updated\":false}}"
+        }
+      ]
+    }
+  ]
+}
